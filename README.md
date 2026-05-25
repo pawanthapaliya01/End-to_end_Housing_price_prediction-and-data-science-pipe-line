@@ -39,14 +39,6 @@ Data Loading
 - TensorFlow Neural Network
 - PyTorch Neural Network
 
-## Results
-
-| Model | R² |
-|---------|---------|
-| Linear Regression | 0.xx |
-| Random Forest | 0.xx |
-| XGBoost | 0.xx |
-
 ## Technologies
 
 - Python
